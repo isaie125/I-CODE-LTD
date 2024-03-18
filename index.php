@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Welcome to Student MIS</title>
 </head>
-<body>
+<body>//hello
     <?php
     echo"index page created";
     ?>
